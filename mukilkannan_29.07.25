@@ -1,0 +1,13 @@
+1)flow of git hud :working directory>git add >staging area>git commit>local repository>1.git push>remote repository>2.git pull>reverse same process
+2)github in gitbash
+      git init-initiak the git file
+      git add. - add the file to staging
+      git commit -m "msg"
+      git remote add origin (link) -stating of git hub
+      git push -u origin main or (other branch)
+3)git token
+     settings>developer settings>create the token
+4)branch creation
+     git checkout -b (branch name) -initial branch
+     git checkout (branch name)-changing branch
+     git branch -display the branch names
