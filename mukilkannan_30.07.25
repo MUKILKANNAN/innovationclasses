@@ -1,0 +1,28 @@
+1)branch creation
+        git checkout -b (branch name)- branch creation
+	git branch -check the branches
+	git checkout (branch name)-switch branch 
+2)merge conflicts 
+        same files creation in two branches
+	two different content put in two files
+	push the file in branch1
+	git merge main - merge the branches 
+3)beckup code
+        git log
+	git commit id-copy the id
+	code .-open vs code
+	git checkout id -open view mode in vs code 
+	git switch -c (brach name)-create a brach name in this copy
+3)beckup code
+        git log
+	git commit id-copy the id
+	code .-open vs code
+	git checkout id -open view mode in vs code 
+	git switch -c (brach name)-create a brach name in this copy
+3)beckup code
+        git log
+	git commit id-copy the id
+	code .-open vs code
+	git checkout id -open view mode in vs code 
+	git switch -c (brach name)-create a brach name in this copy
+
